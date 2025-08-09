@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there! I'm using Github ⚡
+
++ BSc (2023) and MSc (2025) in Applied Mathematics & Physics, MIPT. 
+
++ Currently diving deeper into Machine Learning and open to interesting job or internship offers. 
+
+<!--Here are some of my projects and achievements:
+
+
 
 <!--
 **alex-petrov-git/alex-petrov-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
