@@ -1,6 +1,5 @@
 ## Hi there! I'm using Github ⚡
 
-+ BSc (2023) and MSc (2025) in Applied Mathematics & Physics, MIPT. 
 
 <!--Here are some of my projects and achievements:
 
