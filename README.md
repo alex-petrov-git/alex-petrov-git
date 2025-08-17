@@ -2,8 +2,6 @@
 
 + BSc (2023) and MSc (2025) in Applied Mathematics & Physics, MIPT. 
 
-+ Currently diving deeper into Machine Learning and open to job or internship offers. 
-
 <!--Here are some of my projects and achievements:
 
 
